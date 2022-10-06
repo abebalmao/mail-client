@@ -1,4 +1,4 @@
 # mail-client
-Client to both send and recieve emails utilizing the smtp.google.com email server.
+Client to both send and recieve emails.
 
 Needs the API Java Mail in order to function.
