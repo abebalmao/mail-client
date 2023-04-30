@@ -11,11 +11,6 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.Properties;
 
-/**
- * @Author Albin Vistues
- * @Date 11/07-2022
- */
-
 public class MailClient extends JFrame {
     /*
         initializes the textfields
